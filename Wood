@@ -1,0 +1,76 @@
+class Wood{
+	String timberType;//Oak
+	byte thinckness;//2inches
+	byte length;//6feet
+	int price;//5000rs
+	int loadCapacity;//1000kg
+	
+	Wood()
+	{
+		
+		System.out.println("Invoking no args in wood");
+		this.timberType=timberType;
+		this.thickness=thickness;
+		this.length=length;
+		this.price=price;
+		this.loadCapacity=loadcapacity;
+		
+	}
+	//Wood(String timberType)
+	//{   
+	//    
+	//	System.out.println("Invoking Timber type in wood");
+	//	this.timberType=timberType;
+	//	this.thickness=thickness;
+	//	this.length=length;
+	//	this.price=price;
+	//	this.loadCapacity=loadcapacity;
+	//	
+	//}
+	//Wood(String timberType,byte thickness)
+	//{
+	//	System.out.println("Invoking timber type, thickness in wood");
+	//	
+	//	this.timberType=timberType;
+	//	this.thickness=thickness;
+	//	this.length=length;
+	//	this.price=price;
+	//	this.loadCapacity=loadcapacity;
+	//	
+	//}
+	//Wood(String timberType,byte thickness,byte length)
+	//{
+	//	System.out.println("Invoking timber type, thickness,length in wood");
+	//	
+	//	this.timberType=timberType;
+	//	this.thickness=thickness;
+	//	this.length=length;
+	//	this.price=price;
+	//	this.loadCapacity=loadcapacity;
+	//	
+	//}
+	//Wood(String timberType,byte thickness,byte length,int price)
+	//{
+	//	System.out.println("Invoking timber type, thickness,length,price in wood");
+	//	
+	//	this.timberType=timberType;
+	//	this.thickness=thickness;
+	//	this.length=length;
+	//	this.price=price;
+	//	this.loadCapacity=loadcapacity;
+	//	
+	//}
+	//Wood(String timberType,byte thickness,byte length,int price,int loadCapacity)
+	//{
+	//	System.out.println("Invoking timber type, thickness,length,price and load capacity in wood");
+	//	
+	//	this.timberType=timberType;
+	//	this.thickness=thickness;
+	//	this.length=length;
+	//	this.price=price;
+	//	this.loadCapacity=loadcapacity;
+	//	
+	//}
+	
+	
+}
